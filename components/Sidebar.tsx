@@ -40,7 +40,7 @@ const Sidebar = () => {
 
       {/* Socials */}
       <div className="flex justify-around w-9/12 mx-auto my-5 text-green md:w-full ">
-        <a href="https://www.youtube.com/channel/UClW8d1f5m0QAE_Ig024EP6A">
+        <a href="https://www.youtube.com/channel/UCiF1B5Bskc7KF6DpULWXI3A">
           <AiFillYoutube className="w-8 h-8 cursor-pointer" />
         </a>
         <a href="https://www.linkedin.com/in/sumit-dey-4a04431a9/" >
